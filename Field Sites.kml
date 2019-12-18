@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Field Sites</name>
+	<gx:CascadingStyle kml:id="__managed_style_213FE57064104F3F2C43">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16D071CFE3104F3F2C43">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02A0B25ECA104F3F2C43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16D071CFE3104F3F2C43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_213FE57064104F3F2C43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0773BA4934104F3F2C3E">
+		<name>Pond Branch</name>
+		<LookAt>
+			<longitude>-76.68763417852918</longitude>
+			<latitude>39.47952880971715</latitude>
+			<altitude>131.507120439063</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.3711284064921</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.68799777644003,39.47944461596633,140.957853850092</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004466DB5B104F3FD25D">
+		<name>Baisman Run</name>
+		<LookAt>
+			<longitude>-76.67829616509373</longitude>
+			<latitude>39.47946080092749</latitude>
+			<altitude>101.2001467341995</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>150.2341511957093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.6780640594732,39.47947581629708,101.2630717707941</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E32FFDE19104F412A82">
+		<name>Herring Run (Downstream)</name>
+		<LookAt>
+			<longitude>-76.58322493811933</longitude>
+			<latitude>39.37188550464719</latitude>
+			<altitude>85.58295342699176</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>228.2066201186899</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.58345571203928,39.37192771472374,82.72248471341666</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098C9CDBB2104F4189E2">
+		<name>Herring Run (Upstream)</name>
+		<LookAt>
+			<longitude>-76.58438311568935</longitude>
+			<latitude>39.37613978135479</latitude>
+			<altitude>116.1637066648189</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>197.6258637474166</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.58453292745109,39.37623087106083,108.9601266280879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065EE907B7104F421372">
+		<name>Beaver Run</name>
+		<LookAt>
+			<longitude>-76.90291058161287</longitude>
+			<latitude>39.49009818591524</latitude>
+			<altitude>133.3675311881892</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>306.5181193763055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.90293810377067,39.49028615733418,131.7915801003742</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E06E673E104F42AD09">
+		<name>Gwynns Falls</name>
+		<LookAt>
+			<longitude>-76.78357819350968</longitude>
+			<latitude>39.44378632377047</latitude>
+			<altitude>171.0333442508037</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>394.5147725455901</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.78372183375953,39.4436740108715,163.274948955944</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A5E43B4AE104F43611D">
+		<name>Tadpole Ponds, Upper GPow</name>
+		<LookAt>
+			<longitude>-76.63703708046955</longitude>
+			<latitude>39.60672316795532</latitude>
+			<altitude>129.4131755416019</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1429.205593814113</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.63727162259308,39.60865560371021,101.8870926836161</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="084611F277104F43B142">
+		<name>Tadpole Ponds, Field Station</name>
+		<LookAt>
+			<longitude>-76.62994911393929</longitude>
+			<latitude>39.60351265813722</latitude>
+			<altitude>92.2825239822575</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1466.336386119656</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.62909694495374,39.6024873742333,92.78343019228916</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061FD4135B104F43F943">
+		<name>Field Station Parking</name>
+		<LookAt>
+			<longitude>-76.63789985804937</longitude>
+			<latitude>39.5999469711327</latitude>
+			<altitude>132.5222682564643</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>147.8108520610476</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.6375853826282,39.59992067773022,130.841500126969</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05EF1FDED0104F44856F">
+		<name>Tadpole Ponds, Upper upper GPow</name>
+		<LookAt>
+			<longitude>-76.678123520974</longitude>
+			<latitude>39.61245186904264</latitude>
+			<altitude>104.8532959106285</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>434.0892718620307</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02A0B25ECA104F3F2C43</styleUrl>
+		<Point>
+			<coordinates>-76.67803007353545,39.61238437883467,103.7484478907377</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
